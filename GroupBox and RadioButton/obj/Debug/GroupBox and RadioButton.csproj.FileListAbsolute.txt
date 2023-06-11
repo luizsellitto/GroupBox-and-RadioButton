@@ -1,0 +1,11 @@
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\GroupBox and RadioButton\GroupBox and RadioButton\bin\Debug\GroupBox and RadioButton.exe.config
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\GroupBox and RadioButton\GroupBox and RadioButton\bin\Debug\GroupBox and RadioButton.exe
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\GroupBox and RadioButton\GroupBox and RadioButton\bin\Debug\GroupBox and RadioButton.pdb
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\GroupBox and RadioButton\GroupBox and RadioButton\obj\Debug\GroupBox and RadioButton.csproj.AssemblyReference.cache
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\GroupBox and RadioButton\GroupBox and RadioButton\obj\Debug\GroupBox and RadioButton.csproj.SuggestedBindingRedirects.cache
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\GroupBox and RadioButton\GroupBox and RadioButton\obj\Debug\GroupBox_and_RadioButton.Form1.resources
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\GroupBox and RadioButton\GroupBox and RadioButton\obj\Debug\GroupBox_and_RadioButton.Properties.Resources.resources
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\GroupBox and RadioButton\GroupBox and RadioButton\obj\Debug\GroupBox and RadioButton.csproj.GenerateResource.cache
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\GroupBox and RadioButton\GroupBox and RadioButton\obj\Debug\GroupBox and RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\GroupBox and RadioButton\GroupBox and RadioButton\obj\Debug\GroupBox and RadioButton.exe
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\GroupBox and RadioButton\GroupBox and RadioButton\obj\Debug\GroupBox and RadioButton.pdb
