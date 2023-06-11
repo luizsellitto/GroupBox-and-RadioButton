@@ -29,7 +29,7 @@ namespace GroupBox_and_RadioButton
             double first = Convert.ToDouble(tb_first.Text);
             double second = Convert.ToDouble(tb_second.Text);
 
-            if(rb_soma.Checked == true)
+            if (rb_soma.Checked == true)
             {
                 result = first + second;
 
@@ -46,7 +46,7 @@ namespace GroupBox_and_RadioButton
             {
                 result = first / second;
             }
-            label4.Text = result.ToString();
+            label4.Text = ($"O resultado é igual a: {result.ToString()}");
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
