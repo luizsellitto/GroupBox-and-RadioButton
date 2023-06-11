@@ -15,6 +15,7 @@ namespace GroupBox_and_RadioButton
         public Form1()
         {
             InitializeComponent();
+            label4.Text = string.Empty;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -35,16 +36,17 @@ namespace GroupBox_and_RadioButton
             }
             else if (rb_sub.Checked == true)
             {
-
+                result = first - second;
             }
             else if (rb_mult.Checked == true)
             {
-
+                result = first * second;
             }
             else
             {
-
+                result = first / second;
             }
+            label4.Text = result.ToString();
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
